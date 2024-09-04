@@ -23,6 +23,3 @@
 
 
 
-?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/ahmedmakinde)
-
-
